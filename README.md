@@ -1,4 +1,6 @@
-# META DATABASE ENGINEER PROFESSIONAL CERTIFICATE CAPSTONE PROJECT
+### META DATABASE ENGINEER PROFESSIONAL CERTIFICATE CAPSTONE PROJECT
+
+#### Database for managing the table booking system of an imaginary restaurant: Little Lemon
 
 * See the stored procedures, subqueries, joins and query results in query results folder.
 * See the SQL file for LittleLemonDB at little_lemon_db.sql. It includes stored procedures and triggers too.
